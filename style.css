@@ -1,0 +1,37 @@
+body {
+    background-color: rgb(30, 39, 65);
+    font-family: 'Bungee Spice';
+    font-size: 15px;
+}
+
+.skill1 {
+    border-style: dotted;
+    border-radius: 10%;
+    border-color: rgb(212, 132, 33);
+}
+
+#edu {
+    border-style: dotted;
+    border-radius: 10%;
+    border-color: rgb(212, 132, 33);
+}
+
+#cont_form {
+    border-style: dotted;
+    border-radius: 10%;
+    border-color: rgb(212, 132, 33);
+}
+
+hr {
+    border-color: rgb(240, 124, 15);
+    width: 10%;
+    border-style: dotted none none;
+    border-width: 10px;
+}
+
+#con_hr {
+    border-color: rgb(240, 124, 15);
+    width: 50%;
+    border-style: dotted none none;
+    border-width: 10px;
+}
